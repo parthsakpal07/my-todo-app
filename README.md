@@ -21,3 +21,4 @@ This is a simple Todo app developed using React and Vite. Users can:
 8) Dynamic styling
 
 Perfect as a beginner-friendly project to learn modern React and Vite tooling.
+Done by React + JS + Vite
