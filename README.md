@@ -31,8 +31,8 @@ A simple and clean Todo application built with React and Vite.
 
 If you'd like to connect, reach out here:
 
-🌐 GitHub: [@your-github-username](https://github.com/your-github-username)  
-💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)  
+🌐 GitHub: [@your-github-username](https://github.com/parthsakpal07)  
+💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/parth-sakpal-513905317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
