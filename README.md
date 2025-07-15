@@ -1,3 +1,3 @@
 # React + Vite
 
-![Todo App Screenshot](images/todo-app.png)
+![Todo App Screenshot](src/assets/project.png)
