@@ -1,0 +1,42 @@
+/* TodoList.css */
+
+.todo-container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  background: #fff;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.todo-container h4 {
+  text-align: center;
+}
+
+.todo-container input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.todo-container button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: rgb(2, 2, 2);
+  border: none;
+  cursor: pointer;
+}
+
+.todo-container ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.todo-container li {
+  background-color: #000000;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 6px;
+}
