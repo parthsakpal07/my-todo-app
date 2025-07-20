@@ -1,11 +1,11 @@
 React Todo App
-my first react mini-project.
 
 ![Todo App Screenshot](src/assets/project.png)
 
 React Todo App
 
 A simple and clean Todo application built with React + Vite + JS.
+my first react mini-project.
 
 ✨ Features
 
