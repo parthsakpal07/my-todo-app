@@ -4,9 +4,7 @@ React Todo App
 
 React Todo App
 
-A simple and clean Todo application built with React and Vite.
-
----
+A simple and clean Todo application built with React + Vite + JS.
 
 ✨ Features
 
