@@ -1,4 +1,5 @@
 React Todo App
+my first react mini-project.
 
 ![Todo App Screenshot](src/assets/project.png)
 
