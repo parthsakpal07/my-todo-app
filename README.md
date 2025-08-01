@@ -12,7 +12,7 @@ my first react mini-project.
 ✅ Add new tasks  
 ✅ Delete existing tasks  
 ✅ Mark tasks as completed (with line-through styling)  
-✅ Clean and minimal UI  
+✅ Clean and minimal UI. 
 ✅ Powered by Vite for lightning-fast builds.
 
 📫 Contact Me
