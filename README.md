@@ -11,7 +11,7 @@ my first react mini-project.
 
 1) ✅ Add new tasks. 
 2) ✅ Delete existing tasks. 
-✅ Mark tasks as completed (with line-through styling).  
+3) ✅ Mark tasks as completed (with line-through styling).  
 ✅ Clean and minimal UI. 
 ✅ Powered by Vite for lightning-fast builds.
 
