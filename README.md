@@ -10,7 +10,7 @@ my first react mini-project.
 ✨ Features -
 
 1) ✅ Add new tasks. 
-✅ Delete existing tasks. 
+2) ✅ Delete existing tasks. 
 ✅ Mark tasks as completed (with line-through styling).  
 ✅ Clean and minimal UI. 
 ✅ Powered by Vite for lightning-fast builds.
