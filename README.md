@@ -7,7 +7,7 @@ React Todo App
 A simple and clean Todo application built with React + Vite + JS.
 my first react mini-project.
 
-✨ Features
+✨ Features -
 
 ✅ Add new tasks. 
 ✅ Delete existing tasks. 
